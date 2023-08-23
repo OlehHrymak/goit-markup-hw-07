@@ -385,13 +385,12 @@ overflow: hidden;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-/*! -------------portfolio------------------------- */
+/*! -------------our-producns------------------------- */
 
-.portfolio {
+.our-products {
 padding-bottom: 120px;
-display: none;
 }
-.portfolio-title {
+.our-products-title {
   color: var(--navy-blue-modal-cl);
   text-align: center;
   font-family: var(--secondary-font);
